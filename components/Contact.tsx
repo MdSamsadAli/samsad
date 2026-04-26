@@ -27,7 +27,7 @@ const Contact = () => {
             Send an email
           </a>
           {[
-            { label: "WhatsApp", href: "https://wa.me/9813381892" },
+            { label: "WhatsApp", href: "https://wa.me/+9779813381892" },
             {
               label: "LinkedIn",
               href: "https://linkedin.com/in/samsad-ali-763245206/",
