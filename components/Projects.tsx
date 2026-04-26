@@ -91,7 +91,7 @@ const Projects = () => {
             </a>
           ))}
           <div className="text-[12px] text-ink-3 italic text-center py-6 bg-white/10">
-            More projects coming soon — add your real work here.
+            More projects coming soon.
           </div>
         </div>
       </section>
