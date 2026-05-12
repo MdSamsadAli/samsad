@@ -30,7 +30,7 @@ const Contact = () => {
             { label: "WhatsApp", href: "https://wa.me/+9779813381892" },
             {
               label: "LinkedIn",
-              href: "https://linkedin.com/in/samsad-ali-763245206/",
+              href: "https://www.linkedin.com/in/md-samsad-ali-763245206/",
             },
             { label: "GitHub", href: "https://github.com/MdSamsadAli" },
           ].map(({ label, href }) => (
