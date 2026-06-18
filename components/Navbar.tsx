@@ -34,7 +34,7 @@ export default function Navbar() {
           <a
             href="/cv/MdSamsadAli.pdf"
             download="MdSamsadAli.pdf"
-            className="btn-glass text-sm font-medium px-5 py-2 rounded-full no-underline text-ink transition-all hover:-translate-y-px hover:bg-white/70"
+            className="btn-glass text-sm font-medium px-5 py-2 rounded-full no-underline text-ink transition-all hover:-translate-y-px hover:bg-white/60"
           >
             Download CV
           </a>
