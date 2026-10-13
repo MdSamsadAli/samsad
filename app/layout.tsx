@@ -20,6 +20,15 @@ export const metadata: Metadata = {
     canonical: "/",
   },
 
+  icons: {
+    icon: [
+      {
+        url: "/samsad.jpg",
+        type: "image/jpeg",
+      },
+    ],
+  },
+
   robots: {
     index: true,
     follow: true,
@@ -42,7 +51,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/samsad.jpg",
         width: 1200,
         height: 630,
         alt: "Md Samsad Ali - Full-Stack Web Developer",
