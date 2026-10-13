@@ -21,12 +21,8 @@ export const metadata: Metadata = {
   },
 
   icons: {
-    icon: [
-      {
-        url: "/circle.png",
-        type: "image/png",
-      },
-    ],
+    icon: [{ url: "/circle.png", type: "image/png", sizes: "512x512" }],
+    apple: "/circle.png",
   },
 
   robots: {
